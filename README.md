@@ -12,11 +12,13 @@
 
 🌱 All of my projects are available on my [GitHub](https://github.com/TamlynSpringer?tab=repositories)
 
+🌱 Work in progress portfolio can be found [here](https://tamlyn-portfolio.vercel.app/) 
+
 🌱 Graduate of the **School of Applied Technology's** highly intensive full-stack JavaScript software development bootcamp
 
 <h2 align="left">Connect:</h2>
 
-Learn about my projects and experiences on my [portfolio](tamlynspringer.com) & reach me via [LinkedIn](https://www.linkedin.com/in/tamlyn-springer-v/)
+Learn about my projects and experiences on my [portfolio]([tamlynspringer.com](https://tamlyn-portfolio.vercel.app/)) & reach me via [LinkedIn](https://www.linkedin.com/in/tamlyn-springer-v/)
 
 <h2 align="left">Languages:</h2>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
