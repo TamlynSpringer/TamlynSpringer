@@ -6,15 +6,15 @@
 
 <h2 align="center">Full-stack JavaScript developer based in Stockholm, Sweden</h2>
 
-🌱 Currently working as a **software development consultant** at [< salt />](salt.dev) as part of their software developer career program
+🌱 Currently working as a **software development consultant** at [< salt />](salt.dev) 
 
 🌱 My portfolio can be found [here](https://tamlynspringer.vercel.app/) 
 
-🌱 I’m currently learning **React Native**
+🌱 I’m currently learning **React Native** & **Java**
 
 🌱 All of my projects are available on my [GitHub](https://github.com/TamlynSpringer?tab=repositories)
 
-🌱 Graduate of the **School of Applied Technology's** highly intensive full-stack JavaScript software development bootcamp
+🌱 Graduate of the **School of Applied Technology's** full-stack JavaScript software career program
 
 <h2 align="left">Connect:</h2>
 
