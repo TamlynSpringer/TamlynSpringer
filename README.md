@@ -6,11 +6,9 @@
 
 <h2 align="center">Full-stack JavaScript developer based in Stockholm, Sweden</h2>
 
-🌱 Currently working as a **software development consultant** at [< salt />](salt.dev) 
-
 🌱 My portfolio can be found [here](https://tamlynspringer.vercel.app/) 
 
-🌱 I’m currently learning **React Native** & **Java**
+🌱 I’m currently learning **React Native** & **MUI**
 
 🌱 All of my projects are available on my [GitHub](https://github.com/TamlynSpringer?tab=repositories)
 
@@ -18,7 +16,7 @@
 
 <h2 align="left">Connect:</h2>
 
-Learn about my projects and experiences on my [portfolio]((https://tamlynspringer.vercel.app/)) & reach me via [LinkedIn](https://www.linkedin.com/in/tamlyn-springer-v/)
+Learn about my projects and experiences on my [portfolio](https://tamlynspringer.vercel.app/) & reach me via [LinkedIn](https://www.linkedin.com/in/tamlyn-springer-v/)
 
 <h2 align="left">Languages: &nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></h2>
  
