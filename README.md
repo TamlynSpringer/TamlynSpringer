@@ -8,7 +8,7 @@
 
 🌱 My portfolio can be found [here](https://tamlynspringer.vercel.app/) 
 
-🌱 I’m currently learning **React Native** & **MUI**
+🌱 I’m currently learning **React Native**, **UI design** & **MUI**
 
 🌱 All of my projects are available on my [GitHub](https://github.com/TamlynSpringer?tab=repositories)
 
